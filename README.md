@@ -1,2 +1,3 @@
-# advanced-social-platform-hq8a
-Automated issue comment bot repository
+# Advanced Social Platform Hq8A
+
+Automated issue comment bot repository.
